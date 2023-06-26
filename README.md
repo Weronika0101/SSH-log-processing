@@ -1,6 +1,6 @@
 # SSH-log-processing
 
-Program z interfejsem graficznym do przeglądania logów serwera
+Program z interfejsem graficznym (z użyciem biblioteki PySide6 ) do przeglądania logów serwera
 lub SSH. 
 Aby uruchowić program należy użyć polecenia `python main.py`
 Program posiada następujące funkcjonalności:
