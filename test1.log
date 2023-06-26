@@ -1,0 +1,11 @@
+Dec 21 23:44:35 LabSZ sshd[21133]: Received disconnect from 114.112.48.155: 11: Bye Bye [preauth]
+Dec 21 23:44:36 LabSZ sshd[21135]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=114.112.48.155  user=root
+Dec 21 23:44:37 LabSZ sshd[21135]: Failed password for root from 114.112.48.155 port 48900 ssh2
+Dec 21 23:44:37 LabSZ sshd[21135]: Received disconnect from 114.112.48.155: 11: Bye Bye [preauth]
+Dec 21 23:44:40 LabSZ sshd[21137]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=114.112.48.155  user=root
+Dec 21 23:44:42 LabSZ sshd[21137]: Failed password for root from 114.112.48.155 port 50081 ssh2
+Dec 21 23:44:42 LabSZ sshd[21137]: Received disconnect from 114.112.48.155: 11: Bye Bye [preauth]
+Dec 21 23:44:44 LabSZ sshd[21141]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=114.112.48.155  user=root
+Dec 21 23:44:44 LabSZ sshd[21139]: Invalid user chi from 202.92.128.175
+Dec 21 23:44:44 LabSZ sshd[21139]: input_userauth_request: invalid user chi [preauth]
+Dec 21 23:44:44 LabSZ sshd[21139]: pam_unix(sshd:auth): check pass; user unknown
